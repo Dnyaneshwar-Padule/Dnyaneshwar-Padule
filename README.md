@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dnyaneshwar-Padule
+- 👋 Hi, I’m Dnyaneshwar-Padule
 - 👀 I’m interested in coding with C language
 - 🌱 I’m currently learning in diploma in computer engineering Second year
 
